@@ -1,4 +1,6 @@
-Privacy Policy  
+Privacy Policy -
+
+---
 
 1. Information We Collect
 We collect limited system information, including:
@@ -6,6 +8,10 @@ We collect limited system information, including:
 - Desktop name
 - Local and public IP address
 - Authentication key / license key
+- Basic usage data, including total active time and number of logins
+
+We do not collect, store, or process any personal information beyond what is listed above.
+All payment and billing information is handled exclusively by Stripe, our secure third-party payment processor.
 
 2. How We Use the Information
 We use this information solely to:
@@ -13,7 +19,8 @@ We use this information solely to:
 - Manage access to the program
 
 3. Data Storage
-All information is stored securely in Google's managed cloud database infrastructure. Only individuals who know the authentication key and the developers have access to this data.
+All information is stored securely in Google’s managed cloud database infrastructure.
+Access is limited to developers and individuals who know the authentication key.
 
 4. Data Retention and User Rights
 We retain your information only as long as necessary to provide access to the program.
@@ -22,9 +29,15 @@ We retain your information only as long as necessary to provide access to the pr
 
 5. Security
 Access to this data is restricted to developers and individuals who know the authentication key.
+Sharing your key may let others access limited data linked to it. Keep it private for your security.
 
 6. Contact Information
 If you have questions about this Privacy Policy or need help with your data, please contact one of the developers in our Discord.
 
 7. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be reflected within the program and/or on our official Discord.
+
+---
+
+Effective Date: October 11, 2025
+Version: 1.0
