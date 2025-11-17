@@ -125,5 +125,15 @@
       "Target": -1,
       "Ability": -1
     }
-  ]
+  ],
+  "Share": {
+    "Slot_1": "Shadow Freddy",
+    "Slot_2": "Scarecrow Freddy",
+    "Slot_3": "Golden Freddy",
+    "Slot_4": "Withered Golden Freddy",
+    "Slot_5": "Withered Freddy",
+    "Slot_6": "Purple Guy",
+    "Notes": "around 4k bones at about 24:30 mins per run. Check Discussion if your using dreadbear to replace golden freddy.",
+	"URL": "https://discord.com/channels/1286211974908215306/1439596597666381934"
+  }
 }

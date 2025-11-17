@@ -125,5 +125,15 @@
       "Target": -1,
       "Ability": -1
     }
-  ]
+  ],
+  "Share": {
+    "Slot_1": "Mangle",
+    "Slot_2": "Scarecrow Freddy",
+    "Slot_3": "Puppet",
+    "Slot_4": "Dreadbear",
+    "Slot_5": "Undead Chica",
+    "Slot_6": "Purple Guy",
+    "Notes": "Will probably make a variant later with one of the units swapped out for Horseman Mangle for those who already got it. Check Discussion Page for Updates.",
+	"URL": "https://discord.com/channels/1286211974908215306/1439672172082892962"
+  }
 }
